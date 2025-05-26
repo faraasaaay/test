@@ -44,6 +44,9 @@ To learn more about developing your project with Expo, look at the following res
 
 ## Join the community
 
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/faraasaaay/test?utm_source=oss&utm_medium=github&utm_campaign=faraasaaay%2Ftest&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
